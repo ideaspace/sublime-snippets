@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[padding-left: ${1:0}px;${0}]]></content>
+	<tabTrigger>pl</tabTrigger>
+    <description>padding-left</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

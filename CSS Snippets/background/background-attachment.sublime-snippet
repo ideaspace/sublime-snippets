@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background-attachment: ${1:fixed|local|scroll};]]></content>
+	<tabTrigger>bga</tabTrigger>
+    <description>backgroundAttachment</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

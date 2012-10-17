@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-indent: 100%; white-space：nowrap; overflow: hidden;]]></content>
+	<tabTrigger>indent</tabTrigger>
+    <description>indent 100%</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

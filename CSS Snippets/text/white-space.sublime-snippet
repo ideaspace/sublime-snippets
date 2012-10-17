@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[white-space: ${1:normal|pre|nowrap|pre-wrap|pre-line};]]></content>
+	<tabTrigger>ws</tabTrigger>
+    <description>whiteSpace</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

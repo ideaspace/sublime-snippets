@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[visibility: visible;]]></content>
+	<tabTrigger>vv</tabTrigger>
+    <description>visibility: visible;</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

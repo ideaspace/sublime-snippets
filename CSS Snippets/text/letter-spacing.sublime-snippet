@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[letter-spacing: ${1}px;]]></content>
+	<tabTrigger>lsp</tabTrigger>
+    <description>letterSpacing</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

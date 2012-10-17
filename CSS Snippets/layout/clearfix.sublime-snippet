@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[.clearfix:after,
+.clearfix:before { content: ''; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }]]></content>
+	<tabTrigger>clearfix</tabTrigger>
+    <description>CSS - clearfix</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[min-height: ${1:0}px; height: auto !important; height:${1:0}px]]></content>
+	<tabTrigger>mih</tabTrigger>
+    <description>min-height</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

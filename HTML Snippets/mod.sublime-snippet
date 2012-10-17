@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<div class="mod${1}">
+	<div class="hd">${2}</div>
+	<div class="bd">${3}</div>
+</div>]]></content>
+	<tabTrigger>mod</tabTrigger>
+    <description>module</description>
+    <scope>text.html, source.php</scope>
+</snippet>

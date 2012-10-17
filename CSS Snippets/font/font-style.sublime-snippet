@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[font-style: ${1:normal|italic|oblique};]]></content>
+	<tabTrigger>fs</tabTrigger>
+    <description>fontStyle</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

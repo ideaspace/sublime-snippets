@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[line-height: ${1};]]></content>
+	<tabTrigger>lih</tabTrigger>
+    <description>lineHeight</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

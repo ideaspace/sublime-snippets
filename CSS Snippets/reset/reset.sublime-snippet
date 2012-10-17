@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, cite, code, em, img, q, ins, del, samp, small, strong, dl, dt, dd, ol, ul, li, form, label, input, textarea, table, td, article, aside, canvas, footer, header, hgroup, nav, section, time { margin: 0; padding: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; } 
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+ul {list-style:none;}
+input,
+textarea { font-family: inherit; }
+input { border: 0 none; vertical-align: middle; }
+table { border-collapse: collapse; border-spacing: 0; }
+a { text-decoration:none; }
+a:hover { text-decoration:underline; }
+img {border:0 none;}
+]]></content>
+	<tabTrigger>reset</tabTrigger>
+    <description>Reset CSS</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<ul class="nav nav-list${1}">
+	<li${2}>${3}</li>
+	<li>${4}</li>
+</ul>]]></content>
+	<tabTrigger>navl</tabTrigger>
+    <description>nav list</description>
+    <scope>text.html, source.php</scope>
+</snippet>

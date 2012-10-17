@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[text-align: center;]]></content>
+	<tabTrigger>tac</tabTrigger>
+    <description>textAlign center</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

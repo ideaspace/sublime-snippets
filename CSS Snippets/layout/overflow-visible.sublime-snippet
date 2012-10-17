@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[overflow: visible;]]></content>
+	<tabTrigger>ovv</tabTrigger>
+    <description>overflow: visible;</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

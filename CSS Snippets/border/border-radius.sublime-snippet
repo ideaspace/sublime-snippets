@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[border-radius: $1;]]></content>
+	<tabTrigger>bdrz</tabTrigger>
+    <description>border-radius</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>
