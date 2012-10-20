@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${5:direction}]]></content>
+	<tabTrigger>ani</tabTrigger>
+    <description>animation</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

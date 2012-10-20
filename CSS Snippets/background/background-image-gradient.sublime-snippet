@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background-image: ${1:linear}-gradient(${2:top|left}, ${3:color}, ${4:color});]]></content>
+	<tabTrigger>bgi</tabTrigger>
+    <description>linear-gradient</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

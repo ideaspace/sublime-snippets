@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[animation-direction: ${1:alternate};]]></content>
+	<tabTrigger>ani</tabTrigger>
+    <description>animationDirection</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

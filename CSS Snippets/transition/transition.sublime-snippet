@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transition: ${1:property} ${2:duration} ${3:timing-function} ${4:delay}]]></content>
+	<tabTrigger>tsi</tabTrigger>
+    <description>Transition</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transition-timing-function: ${1:linear|ease|ease-in|ease-out|ease-in-out};]]></content>
+	<tabTrigger>tsi</tabTrigger>
+    <description>transitionTimingFunction</description>
+    <scope>source.css, source.less, source.sass, source.stylus</scope>
+</snippet>
