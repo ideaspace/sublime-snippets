@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[animation-timing-function: ${1:linear|ease|ease-in|ease-out|ease-in-out};]]></content>
+	<content><![CDATA[-webkit-animation-timing-function: ${1:linear|ease|ease-in|ease-out|ease-in-out};
+   -moz-animation-timing-function: ${1};
+    -ms-animation-timing-function: ${1};
+     -o-animation-timing-function: ${1};
+        animation-timing-function: ${1};]]></content>
 	<tabTrigger>ani</tabTrigger>
     <description>animationTimingFunction</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

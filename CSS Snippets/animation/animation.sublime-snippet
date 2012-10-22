@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${5:direction}]]></content>
+	<content><![CDATA[-webkit-animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction};
+   -moz-animation: $1 $2 $3 $4 $5 $6;
+    -ms-animation: $1 $2 $3 $4 $5 $6;
+     -o-animation: $1 $2 $3 $4 $5 $6;
+        animation: $1 $2 $3 $4 $5 $6;]]></content>
 	<tabTrigger>ani</tabTrigger>
     <description>animation</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

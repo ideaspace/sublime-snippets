@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[animation-duration: ${1}s;]]></content>
+	<content><![CDATA[-webkit-animation-duration: ${1}s;
+   -moz-animation-duration: ${1}s;
+    -ms-animation-duration: ${1}s;
+     -o-animation-duration: ${1}s;
+        animation-duration: ${1}s;]]></content>
 	<tabTrigger>ani</tabTrigger>
     <description>animationDuration</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

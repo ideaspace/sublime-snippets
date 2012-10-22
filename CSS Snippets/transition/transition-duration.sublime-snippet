@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[transition-duration: ${1:1}s;]]></content>
+	<content><![CDATA[-webkit-transition-duration: ${1:1}s;
+   -moz-transition-duration: $1s;
+    -ms-transition-duration: $1s;
+     -o-transition-duration: $1s;
+        transition-duration: $1s;]]></content>
 	<tabTrigger>tsi</tabTrigger>
     <description>transitionDuration</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

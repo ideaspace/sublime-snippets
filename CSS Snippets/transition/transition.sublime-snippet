@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[transition: ${1:property} ${2:duration} ${3:timing-function} ${4:delay}]]></content>
+	<content><![CDATA[-webkit-transition: ${1:property} ${2:duration} ${3:timing-function} ${4:delay};
+   -moz-transition: $1 $2 $3 $4;
+    -ms-transition: $1 $2 $3 $4;
+     -o-transition: $1 $2 $3 $4;
+        transition: $1 $2 $3 $4;]]></content>
 	<tabTrigger>tsi</tabTrigger>
     <description>Transition</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

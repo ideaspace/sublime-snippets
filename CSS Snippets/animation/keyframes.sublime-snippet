@@ -1,8 +1,9 @@
 <snippet>
-	<content><![CDATA[@keyframes $1 {
-	0% { $2 }
-	100% { $3 }
-}]]></content>
+	<content><![CDATA[@-webkit-keyframes ${1:name} { ${2:percent} { ${3:property} } ${4:percent} { ${5:property} } };
+   @-moz-keyframes $1 { $2 { $3 } $4 { $5 } };
+    @-ms-keyframes $1 { $2 { $3 } $4 { $5 } };
+     @-o-keyframes $1 { $2 { $3 } $4 { $5 } };
+        @keyframes $1 { $2 { $3 } $4 { $5 } };]]></content>
 	<tabTrigger>kf</tabTrigger>
     <description>keyframes</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[animation-name: $1;]]></content>
+	<content><![CDATA[-webkit-animation-name: $1;
+   -moz-animation-name: $1;
+    -ms-animation-name: $1;
+     -o-animation-name: $1;
+        animation-name: $1;]]></content>
 	<tabTrigger>ani</tabTrigger>
     <description>animationName</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>

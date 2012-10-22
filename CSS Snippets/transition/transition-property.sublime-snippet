@@ -1,5 +1,9 @@
 <snippet>
-	<content><![CDATA[transition-property: ${1:all|none} ${2:property};]]></content>
+	<content><![CDATA[-webkit-transition-property: ${1:all|none} ${2:property};
+   -moz-transition-property: $1 $2;
+    -ms-transition-property: $1 $2;
+     -o-transition-property: $1 $2;
+        transition-property: $1 $2;]]></content>
 	<tabTrigger>tsi</tabTrigger>
     <description>transitionProperty</description>
     <scope>source.css, source.less, source.sass, source.stylus</scope>
